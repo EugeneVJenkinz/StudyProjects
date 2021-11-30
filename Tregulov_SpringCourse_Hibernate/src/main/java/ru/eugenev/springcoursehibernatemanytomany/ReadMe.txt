@@ -1,0 +1,1 @@
+Note that Collections in Entities allow to add duplicates -> need to change ArrayLists to HashSets
