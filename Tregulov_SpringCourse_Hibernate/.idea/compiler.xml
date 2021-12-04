@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcourse" />
         <module name="SpringCourse_Udemy" />
+        <module name="Tregulov_SpringCourse_Hibernate" />
       </profile>
     </annotationProcessing>
   </component>
